@@ -10,7 +10,7 @@ void InsertSort(std::vector<int>&array,int n){
             }
             array[j+1] = temp;
         }
-    }//0 1 2 3 4 
+    }
 }
 
 
